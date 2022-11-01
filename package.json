@@ -13,7 +13,7 @@
   },
   "dependencise": {},
   "devDependencies": {
-    "mocha": "~1.10.0",
+    "mocha": "~10.1.0",
     "expect.js": "~0.2.0"
   },
   "engines": {
