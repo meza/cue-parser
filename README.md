@@ -8,6 +8,8 @@ Use it with
 - npm: https://www.npmjs.com/package/patch-package
 - pnpm: `pnpm patch`
 
+Filename: `cue-parser@0.3.0.patch`
+
 ```patch
 diff --git a/lib/cue.d.ts b/lib/cue.d.ts
 index b0060f1a4dc3a6944e29517b03b03a39d85df42f..7da5f99ef0eb827fbae0c33c5cf3842b902ef361 100644
